@@ -5,9 +5,9 @@ Create a responsive website header using HTML, CSS, and JavaScript by watching t
 
 Learn how to create a responsive website using HTML, CSS, and JavaScript by watching this tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-🛒 You can buy the design from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/187398)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/187398)
 
 Thanks,
-[codermj](https://www.youtube.com/@thecodermj/)
+[codermj](https://www.youtube.com/@the.codermj/)
 
 ![design](https://github.com/mjshofy/23-01-21-header-responsive-design/assets/76812554/6a45586b-ed12-451e-9c53-c5d18ce3a82b)
